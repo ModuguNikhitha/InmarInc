@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>Inmar</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -13,11 +13,11 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Task</a>
+      <a class="navbar-brand" href="#">Retailer</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="login.php">Login</a></li>
-      <li><a href="register.php">Register</a></li>
+      <li class="active"><a href="details.php">Store Details</a></li>
+      <li><a href="fruits.php">Fruits</a></li>
       
     </ul>
   </div>
